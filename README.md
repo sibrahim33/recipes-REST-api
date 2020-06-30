@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app api source code
+Source code for a REST API application for recipe sharing.
